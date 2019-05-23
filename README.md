@@ -1,6 +1,4 @@
-<<<<<<< HEAD
 # One-shot-learning-thesis
-=======
 # StoreNet
 Learn from storepal images from previous loyalty programs to train a new neural net quickly for a new loyalty program
 
@@ -27,8 +25,3 @@ With the notebook [train_siamese.ipynb](thesis/siamese_own_implementation/train_
 
 ### Evaluate
 With [Demo.ipynb](thesis/siamese_own_implementation/Demo.ipynb) an evaluation of the trained siamese neural network can be run. This can be done on a custom dataset where each image class can be saved in a separate folder in the folder demo_data.
-
-
-
-
->>>>>>> 8f5feff122b85a68a6aab9d381286f87461b8910
